@@ -1,0 +1,243 @@
+2023-09-30 13:21:38:2138 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:21:47:2147 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:22:23:2223 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:22:29:2229 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:22:41:2241 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:22:50:2250 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:23:07:237 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:23:07:237 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:23:21:2321 - [31merror[39m: [31mNão foi possivel conectar ao banco[39m
+2023-09-30 13:23:21:2321 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2023-09-30 13:23:21:2321 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:23:26:2326 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:23:27:2327 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:24:06:246 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:24:06:246 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:32:52:3252 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:32:52:3252 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:33:34:3334 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:33:34:3334 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:34:51:3451 - [35mhttp[39m: [35mGET : url : status 7 - 2.466 ms[39m
+[35m[39m
+2023-09-30 13:34:53:3453 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:34:53:3453 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:34:57:3457 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:34:57:3457 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:35:44:3544 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:35:44:3544 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:01:421 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:42:01:421 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:06:426 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:42:06:426 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:09:429 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:42:09:429 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:17:4217 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:42:18:4218 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:24:4224 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:42:24:4224 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:42:59:4259 - [35mhttp[39m: [35mPOST : url : status 153 - 2.874 ms[39m
+[35m[39m
+2023-09-30 13:43:12:4312 - [35mhttp[39m: [35mPOST : url : status 20 - 2.823 ms[39m
+[35m[39m
+2023-09-30 13:46:30:4630 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:46:30:4630 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:58:17:5817 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 13:58:17:5817 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 13:58:57:5857 - [35mhttp[39m: [35mPOST : url : status 155 - 211.315 ms[39m
+[35m[39m
+2023-09-30 14:02:16:216 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:02:16:216 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:14:48:1448 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:14:48:1448 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:14:55:1455 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:14:55:1455 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:15:00:150 - [35mhttp[39m: [35mPOST : url : status 151 - 225.909 ms[39m
+[35m[39m
+2023-09-30 14:15:06:156 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:15:06:156 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:19:17:1917 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:19:17:1917 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:19:33:1933 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:19:33:1933 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:19:45:1945 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:19:45:1945 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:20:07:207 - [35mhttp[39m: [35mPOST : url : status 13 - 6.158 ms[39m
+[35m[39m
+2023-09-30 14:20:09:209 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:20:09:209 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:20:30:2030 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:20:30:2030 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:20:47:2047 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:20:47:2047 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:20:54:2054 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:20:54:2054 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:21:09:219 - [35mhttp[39m: [35mPOST : url : status 13 - 6.876 ms[39m
+[35m[39m
+2023-09-30 14:21:10:2110 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:21:10:2110 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:21:58:2158 - [35mhttp[39m: [35mPOST : url : status 13 - 5.436 ms[39m
+[35m[39m
+2023-09-30 14:21:59:2159 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:21:59:2159 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:22:00:220 - [35mhttp[39m: [35mPOST : url : status 13 - 0.984 ms[39m
+[35m[39m
+2023-09-30 14:22:06:226 - [35mhttp[39m: [35mPOST : url : status 13 - 6.476 ms[39m
+[35m[39m
+2023-09-30 14:22:06:226 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:22:06:226 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:22:18:2218 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:22:18:2218 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:22:20:2220 - [35mhttp[39m: [35mPOST : url : status 13 - 5.238 ms[39m
+[35m[39m
+2023-09-30 14:22:21:2221 - [35mhttp[39m: [35mPOST : url : status 13 - 0.945 ms[39m
+[35m[39m
+2023-09-30 14:22:25:2225 - [35mhttp[39m: [35mPOST : url : status 13 - 6.261 ms[39m
+[35m[39m
+2023-09-30 14:22:26:2226 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:22:26:2226 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:22:57:2257 - [35mhttp[39m: [35mPOST : url : status 13 - 6.064 ms[39m
+[35m[39m
+2023-09-30 14:22:58:2258 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:22:58:2258 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:23:06:236 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:23:06:236 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:23:25:2325 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:23:25:2325 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:24:02:242 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:24:02:242 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:24:10:2410 - [35mhttp[39m: [35mPOST : url : status 13 - 6.421 ms[39m
+[35m[39m
+2023-09-30 14:33:46:3346 - [35mhttp[39m: [35mPOST : url : status 13 - 7.819 ms[39m
+[35m[39m
+2023-09-30 14:33:48:3348 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:33:48:3348 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:33:48:3348 - [35mhttp[39m: [35mPOST : url : status 13 - 2.092 ms[39m
+[35m[39m
+2023-09-30 14:33:53:3353 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:33:53:3353 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:36:12:3612 - [35mhttp[39m: [35mPOST : url : status 574 - 187.135 ms[39m
+[35m[39m
+2023-09-30 14:37:10:3710 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:37:10:3710 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:37:43:3743 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:37:43:3743 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:40:12:4012 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:40:12:4012 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:41:35:4135 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:41:35:4135 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:41:42:4142 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:41:42:4142 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:42:05:425 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:42:05:425 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:42:14:4214 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:42:14:4214 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:43:12:4312 - [35mhttp[39m: [35mGET : url : status 173 - 3.193 ms[39m
+[35m[39m
+2023-09-30 14:43:24:4324 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:43:24:4324 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:43:33:4333 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:43:33:4333 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:44:19:4419 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:44:19:4419 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:44:38:4438 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65185c8b5adeff43a0a83a7w" (type string) at path "_id" for model "Movie"[39m
+2023-09-30 14:44:47:4447 - [35mhttp[39m: [35mGET : url : status - - - ms[39m
+[35m[39m
+2023-09-30 14:45:31:4531 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:45:31:4531 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:45:43:4543 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:45:43:4543 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:46:00:460 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:46:00:460 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:46:04:464 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:46:04:464 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:46:05:465 - [32minfo[39m: [32mErro no sistema: Cast to ObjectId failed for value "65185c8b5adeff43a0a83a7w" (type string) at path "_id" for model "Movie"[39m
+2023-09-30 14:46:25:4625 - [32minfo[39m: [32mErro no sistema: Cast to ObjectId failed for value "65185c8b5adeff43a0a83a7w" (type string) at path "_id" for model "Movie"[39m
+2023-09-30 14:46:25:4625 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:46:25:4625 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:46:30:4630 - [35mhttp[39m: [35mGET : url : status - - - ms[39m
+[35m[39m
+2023-09-30 14:46:46:4646 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:46:46:4646 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:47:02:472 - [32minfo[39m: [32mErro no sistema: Cast to ObjectId failed for value "65185c8b5adeff43a0a83a7w" (type string) at path "_id" for model "Movie"[39m
+2023-09-30 14:47:16:4716 - [35mhttp[39m: [35mGET : url : status - - - ms[39m
+[35m[39m
+2023-09-30 14:51:41:5141 - [35mhttp[39m: [35mGET : url : status 36 - 3.604 ms[39m
+[35m[39m
+2023-09-30 14:51:42:5142 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:51:42:5142 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:51:44:5144 - [35mhttp[39m: [35mGET : url : status 574 - 180.381 ms[39m
+[35m[39m
+2023-09-30 14:52:01:521 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:52:01:521 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:52:05:525 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:52:05:525 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 14:52:18:5218 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 14:52:18:5218 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:00:57:057 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:00:57:057 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:01:04:14 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:01:04:14 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:01:08:18 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:01:08:18 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:01:18:118 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:01:18:118 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:01:30:130 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:01:30:130 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:01:48:148 - [35mhttp[39m: [35mGET : url : status 884 - 180.427 ms[39m
+[35m[39m
+2023-09-30 15:02:04:24 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:02:04:24 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:02:52:252 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:02:52:252 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:04:27:427 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:04:27:427 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:04:57:457 - [35mhttp[39m: [35mDELETE : url : status - - - ms[39m
+[35m[39m
+2023-09-30 15:05:07:57 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:05:07:57 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:05:22:522 - [35mhttp[39m: [35mGET : url : status 884 - 183.246 ms[39m
+[35m[39m
+2023-09-30 15:05:54:554 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:05:54:554 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:06:04:64 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:06:04:64 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:06:05:65 - [35mhttp[39m: [35mDELETE : url : status 32 - 2244.900 ms[39m
+[35m[39m
+2023-09-30 15:07:08:78 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:07:08:78 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:07:16:716 - [35mhttp[39m: [35mDELETE : url : status 37 - 349.634 ms[39m
+[35m[39m
+2023-09-30 15:07:22:722 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:07:22:722 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:07:26:726 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:07:26:726 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:08:04:84 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:08:04:84 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:08:22:822 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:08:22:822 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:08:32:832 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:08:32:832 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:08:46:846 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:08:46:846 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:08:57:857 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:08:57:857 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:09:11:911 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:09:11:911 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:09:20:920 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:09:20:920 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:09:32:932 - [35mhttp[39m: [35mGET : url : status 309 - 165.386 ms[39m
+[35m[39m
+2023-09-30 15:10:14:1014 - [35mhttp[39m: [35mPATCH : url : status 39 - 155.153 ms[39m
+[35m[39m
+2023-09-30 15:11:23:1123 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:11:23:1123 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:11:28:1128 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:11:28:1128 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:11:47:1147 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:11:47:1147 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:11:53:1153 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:11:53:1153 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:12:19:1219 - [32minfo[39m: [32mconectado ao banco[39m
+2023-09-30 15:12:19:1219 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-09-30 15:12:37:1237 - [35mhttp[39m: [35mPATCH : url : status 464 - 349.180 ms[39m
+[35m[39m
